@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamagarwal1&label=Profile%20views&color=0e75b6&style=flat" alt="prathamagarwal1" /> </p>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/02334af27b65197342cc17fae0bc4e7ca8533e8c87a028536b96f8e6242c07a3/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786558563463544a30634770306333686a4f484d324d4842794e334270627a4a304d586876616a4676626a5a6b4d54686a645451774d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f43757553487a7563304f3136364d52666a742f67697068792e676966">
-- 🌱 I’m currently learning **DSA and C++**
+- 🌱 I’m currently learning DSA and C++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
