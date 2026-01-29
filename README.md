@@ -41,8 +41,7 @@
 <h3 align="left">GitHub Stats:</h3>
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamagarwal1&show_icons=true&theme=radical&count_private=true" alt="Pratham's Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamagarwal1&theme=radical" alt="Pratham's Streak" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=PrathamAgarwal1)](https://git.io/streak-stats)
 </p>
 
 ---
