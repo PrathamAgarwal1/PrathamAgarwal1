@@ -39,10 +39,17 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  <img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamagarwal1&theme=radical" alt="Pratham's GitHub Streak Stats" />
-  <br/>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=prathamagarwal1&count_private=true&theme=radical&show_icons=true" alt="Pratham's GitHub Stats"/>
-</div>
+### 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamagarwal1&show_icons=true&theme=radical&count_private=true" alt="Pratham's Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamagarwal1&theme=radical" alt="Pratham's Streak" />
+</p>
 
-<img align="right" alt="Coding" width="1500" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+---
+
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratham-agarwal1/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
