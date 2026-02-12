@@ -44,11 +44,3 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrathamAgarwal1&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
----
-
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/pratham-agarwal1/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
