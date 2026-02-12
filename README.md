@@ -39,7 +39,6 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-### 📊 GitHub Stats:
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrathamAgarwal1&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
